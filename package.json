@@ -1,0 +1,16 @@
+{
+  "name": "json-parse-language",
+  "version": "1.0.3",
+  "description": "For parsing the complex json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "Parse",
+    "Language"
+  ],
+  "author": "Govind VE",
+  "license": "ISC"
+}
